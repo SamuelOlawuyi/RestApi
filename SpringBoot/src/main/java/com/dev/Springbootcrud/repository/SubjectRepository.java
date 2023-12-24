@@ -1,4 +1,4 @@
-   package com.dev.Springbootcrud.repository;
+package com.dev.Springbootcrud.repository;
 
 import com.dev.Springbootcrud.entity.Subject;
 import org.springframework.data.jpa.repository.JpaRepository;
